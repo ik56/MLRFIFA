@@ -1,7 +1,7 @@
-## MLRFIFA
-The goal of this Multiple Linear Regression Analysis is to asses whether the variables wage, release clause, pace, shooting, passing, and defending impact the value of player in the game. 
+# MLRFIFA
+  The goal of this Multiple Linear Regression Analysis is to asses whether the variables wage, release clause, pace, shooting, passing, and defending impact the value of player in the game. 
 # Description 
-FIFA 21 is a soccer video game based on its real-life counterpart. In the game players can take 
+  FIFA 21 is a soccer video game based on its real-life counterpart. In the game players can take 
 advantage of a variety of in game modes including training sessions, king of the hill, volta football, career 
 mode etc. For the analysis of this paper, the players being used in the manager mode will be at the center 
 of the discussion. In the career mode, players can choose to be either a player or a manager. Based on the 
@@ -14,3 +14,14 @@ option. With one problem addressed a new problem came to take its place. With an
 prospective talent coming to my in-game club, the new question became “how do I make these guys 
 good?” More specifically “what attributes can be used to increase the overall value (level) of the players 
 that are being brought into the club?
+# Where to begin
+## Data and Links
+  https://www.kaggle.com/code/paramarthasengupta/fifa-21-eda-and-visualization
+
+# Conclusion 
+  In conclusion, we can reject the null hypothesis of this analysis that each of these predictors are 
+not correlated with player value. And we can accept the alternative that the predictors wage_eur, 
+release_clause_eur, pace, shooting, passing, and defending are correlated with a player’s value.
+
+  Conclusion and Introduction adpated from final paper
+  
